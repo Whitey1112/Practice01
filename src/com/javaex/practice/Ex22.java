@@ -7,9 +7,10 @@ public class Ex22 {
 		/*
 		 
 		 
+		
 		 */
 		
-		
+		System.out.println("aaaa");
 	}
 
 }
