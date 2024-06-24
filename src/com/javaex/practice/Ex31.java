@@ -15,12 +15,21 @@ public class Ex31 {
 		
 		
 		System.out.print("상품가격: ");
-		
 		double pp = ex.nextDouble();
 		
 		System.out.print("받은 돈: ");
-		
 		double mr = ex.nextDouble();
+		
+		System.out.println("========================");
+		
+		System.out.println("받은 돈: " + mr);
+		System.out.println("상품가격: " + pp);
+		System.out.println("부가세:" + pp/10);
+		System.out.print("잔액: " + (mr - pp));
+		
+		
+		
+		
 		
 		
 		
