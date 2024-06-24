@@ -13,6 +13,53 @@ public class Ex33 {
 		
 			Scanner ex = new Scanner(System.in);
 			
+			System.out.print("반지름: ");
+			
+			
+			double r = ex.nextDouble();
+			
+			double pi = 3.14;
+			
+			
+			System.out.println("구의 부피는: " + 4.0 / 3.0 * pi * r * r * r );
+			
+			
+			System.out.println("");
+			
+			
+			System.out.print("반지름: ");
+			
+			double r1 = ex.nextDouble();
+			
+			double pi1 = 3.14;
+			
+			System.out.println("구의 부피는: " + 4.0 / 3.0 * pi1 * r1 * r1* r1);
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			ex.close();
+			
 			
 			
 			
